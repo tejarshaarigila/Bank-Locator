@@ -120,13 +120,3 @@ google.api.key=YOUR_API_KEY_HERE
 | End-to-End   | Manual test with curl/Postman |
 
 ---
-
-### 📌 9. **Key Takeaways for Learning**
-
-- REST architecture with clean service separation
-- External API integration using Spring Boot
-- Modular layering with DTOs and services
-- Property injection and environment config
-- Real-world data parsing and transformation
-
----
